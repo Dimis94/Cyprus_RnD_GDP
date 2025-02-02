@@ -51,4 +51,4 @@ python scripts/regression_improvement_elastic_net.py      # Elastic Net Regulari
 python scripts/regression_improvement_ridge.py            # Ridge Regression  
 python scripts/regression_improvement_time_lagged_prequential.py # Time-Lagged Prequential Regression  
 
- Eleftheriou, D. (2025). Sector-Specific R&D Contributions to GDP Growth in Cyprus. GitHub. Available at: https://github.com/yourusername/Cyprus-RnD-GDP
+ Eleftheriou, D. (2025). Sector-Specific R&D Contributions to GDP Growth in Cyprus.
